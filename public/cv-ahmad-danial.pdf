@@ -1,0 +1,292 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 1905 >>
+stream
+BT
+/F1 9 Tf
+50 755 Td
+11 TL
+(CV AHMAD DANIAL HARIADI) Tj
+0 -11 Td
+(Fresh Graduate - Full Stack Web Developer) Tj
+0 -11 Td
+(============================================================) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(PROFIL) Tj
+0 -11 Td
+(Ahmad Danial Hariadi adalah fresh graduate Program Studi Teknologi Informasi) Tj
+0 -11 Td
+(yang berfokus pada pengembangan website, sistem informasi, dan solusi digital.) Tj
+0 -11 Td
+(Memiliki pengalaman freelance sejak 2023 dalam membangun aplikasi web dari sisi) Tj
+0 -11 Td
+(frontend maupun backend. Terbiasa menggunakan Laravel, Blade, React.js, PHP,) Tj
+0 -11 Td
+(JavaScript, MySQL, dan Git.) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(KONTAK) Tj
+0 -11 Td
+(Email    : ahmaddanialhariadi@gmail.com) Tj
+0 -11 Td
+(Lokasi   : Indonesia) Tj
+0 -11 Td
+(GitHub   : https://github.com/Ahmadskylord) Tj
+0 -11 Td
+(LinkedIn : https://linkedin.com/in/ahmad-danial-hariadi) Tj
+0 -11 Td
+(Status   : Open to Work) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(KEAHLIAN TEKNIS) Tj
+0 -11 Td
+(Frontend) Tj
+0 -11 Td
+(- HTML5) Tj
+0 -11 Td
+(- CSS3) Tj
+0 -11 Td
+(- JavaScript) Tj
+0 -11 Td
+(- React.js) Tj
+0 -11 Td
+(- Tailwind CSS) Tj
+0 -11 Td
+(- Bootstrap) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(Backend) Tj
+0 -11 Td
+(- PHP) Tj
+0 -11 Td
+(- Laravel) Tj
+0 -11 Td
+(- Node.js) Tj
+0 -11 Td
+(- REST API) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(Database & Tools) Tj
+0 -11 Td
+(- MySQL) Tj
+0 -11 Td
+(- Git) Tj
+0 -11 Td
+(- GitHub) Tj
+0 -11 Td
+(- VS Code) Tj
+0 -11 Td
+(- Figma) Tj
+0 -11 Td
+(- Canva) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(PENGALAMAN) Tj
+0 -11 Td
+(Freelance Web Developer | 2023 - Sekarang) Tj
+0 -11 Td
+(- Mengembangkan website dan sistem informasi sesuai kebutuhan pengguna.) Tj
+0 -11 Td
+(- Mengerjakan pengembangan frontend dan backend.) Tj
+0 -11 Td
+(- Merancang struktur database dan fitur aplikasi.) Tj
+0 -11 Td
+(- Melakukan integrasi API dan pengelolaan data.) Tj
+0 -11 Td
+(- Melakukan debugging, testing, dan deployment aplikasi.) Tj
+0 -11 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 2477 >>
+stream
+BT
+/F1 9 Tf
+50 755 Td
+11 TL
+() Tj
+0 -11 Td
+(PENDIDIKAN) Tj
+0 -11 Td
+(Institut Teknologi dan Kesehatan Aspirasi \(ITKA\)) Tj
+0 -11 Td
+(Program Studi Teknologi Informasi) Tj
+0 -11 Td
+(2022 - 2026) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(PROJECT UNGGULAN) Tj
+0 -11 Td
+(1. Sistem Manajemen Arsip Digital - E-Arsip ITKA) Tj
+0 -11 Td
+(   Role       : Full Stack Web Developer) Tj
+0 -11 Td
+(   Teknologi  : Laravel 10, PHP, MySQL, Blade) Tj
+0 -11 Td
+(   Deskripsi  : Sistem pengelolaan arsip digital berbasis website untuk membantu) Tj
+0 -11 Td
+(                penyimpanan, pencarian, pengelolaan, dan distribusi dokumen.) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(2. Jejakte Parfum - Sistem Penjualan Online) Tj
+0 -11 Td
+(   Role       : Full Stack Web Developer) Tj
+0 -11 Td
+(   Teknologi  : PHP, MySQL, JavaScript, Bootstrap) Tj
+0 -11 Td
+(   Deskripsi  : Sistem penjualan online untuk pengelolaan produk dan proses) Tj
+0 -11 Td
+(                pemesanan secara digital.) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(3. PMB Online - Sistem Pendaftaran Mahasiswa) Tj
+0 -11 Td
+(   Role       : Full Stack Web Developer) Tj
+0 -11 Td
+(   Teknologi  : Node.js, JavaScript) Tj
+0 -11 Td
+(   Deskripsi  : Sistem pendaftaran mahasiswa berbasis web dengan pengelolaan) Tj
+0 -11 Td
+(                data, export Excel, dan integrasi notifikasi WhatsApp.) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(4. Sistem Pengajuan BBM) Tj
+0 -11 Td
+(   Role       : Full Stack Web Developer) Tj
+0 -11 Td
+(   Teknologi  : Laravel, MySQL, QR Code) Tj
+0 -11 Td
+(   Deskripsi  : Sistem pengajuan berbasis web dengan validasi dokumen dan) Tj
+0 -11 Td
+(                verifikasi menggunakan QR code.) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(5. Sistem Pengaduan Kekerasan Seksual Civitas Akademika) Tj
+0 -11 Td
+(   Role       : Full Stack Web Developer) Tj
+0 -11 Td
+(   Teknologi  : Laravel 10, Bootstrap, MySQL) Tj
+0 -11 Td
+(   Deskripsi  : Platform berbasis web untuk mendukung proses pengajuan dan) Tj
+0 -11 Td
+(                pengelolaan laporan secara digital.) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(PENGALAMAN ORGANISASI) Tj
+0 -11 Td
+(- Wakil Presiden Mahasiswa BEM ITKA) Tj
+0 -11 Td
+(- Sekretaris Umum HMI Komisariat Teknik) Tj
+0 -11 Td
+(- Aktif dalam kegiatan kepemimpinan, pengelolaan program, administrasi organisasi,) Tj
+0 -11 Td
+(  komunikasi, dan pengembangan kegiatan mahasiswa.) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(KEKUATAN PROFESIONAL) Tj
+0 -11 Td
+(- Problem Solving) Tj
+0 -11 Td
+(- Web Development) Tj
+0 -11 Td
+(- System Analysis) Tj
+0 -11 Td
+(- Database Management) Tj
+0 -11 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 705 >>
+stream
+BT
+/F1 9 Tf
+50 755 Td
+11 TL
+(- Team Collaboration) Tj
+0 -11 Td
+(- Communication) Tj
+0 -11 Td
+(- Continuous Learning) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(CAREER OBJECTIVE) Tj
+0 -11 Td
+(Membangun karier di bidang software engineering dan web development dengan) Tj
+0 -11 Td
+(mengembangkan solusi digital yang fungsional, terukur, dan memberikan manfaat) Tj
+0 -11 Td
+(nyata bagi pengguna maupun organisasi.) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(STATUS) Tj
+0 -11 Td
+(OPEN TO WORK) Tj
+0 -11 Td
+(Full-Time | Freelance | Collaboration) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+(============================================================) Tj
+0 -11 Td
+(Ahmad Danial Hariadi) Tj
+0 -11 Td
+(Full Stack Web Developer) Tj
+0 -11 Td
+() Tj
+0 -11 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000195 00000 n 
+0000002152 00000 n 
+0000002278 00000 n 
+0000004807 00000 n 
+0000004933 00000 n 
+0000005689 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+5815
+%%EOF

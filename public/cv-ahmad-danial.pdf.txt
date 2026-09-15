@@ -1,0 +1,112 @@
+CV AHMAD DANIAL HARIADI
+Fresh Graduate - Full Stack Web Developer
+============================================================
+
+PROFIL
+Ahmad Danial Hariadi adalah fresh graduate Program Studi Teknologi Informasi
+yang berfokus pada pengembangan website, sistem informasi, dan solusi digital.
+Memiliki pengalaman freelance sejak 2023 dalam membangun aplikasi web dari sisi
+frontend maupun backend. Terbiasa menggunakan Laravel, Blade, React.js, PHP,
+JavaScript, MySQL, dan Git.
+
+KONTAK
+Email    : ahmaddanialhariadi@gmail.com
+Lokasi   : Indonesia
+GitHub   : https://github.com/Ahmadskylord
+LinkedIn : https://linkedin.com/in/ahmad-danial-hariadi
+Status   : Open to Work
+
+KEAHLIAN TEKNIS
+Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- Bootstrap
+
+Backend
+- PHP
+- Laravel
+- Node.js
+- REST API
+
+Database & Tools
+- MySQL
+- Git
+- GitHub
+- VS Code
+- Figma
+- Canva
+
+PENGALAMAN
+Freelance Web Developer | 2023 - Sekarang
+- Mengembangkan website dan sistem informasi sesuai kebutuhan pengguna.
+- Mengerjakan pengembangan frontend dan backend.
+- Merancang struktur database dan fitur aplikasi.
+- Melakukan integrasi API dan pengelolaan data.
+- Melakukan debugging, testing, dan deployment aplikasi.
+
+PENDIDIKAN
+Institut Teknologi dan Kesehatan Aspirasi (ITKA)
+Program Studi Teknologi Informasi
+2022 - 2026
+
+PROJECT UNGGULAN
+1. Sistem Manajemen Arsip Digital - E-Arsip ITKA
+   Role       : Full Stack Web Developer
+   Teknologi  : Laravel 10, PHP, MySQL, Blade
+   Deskripsi  : Sistem pengelolaan arsip digital berbasis website untuk membantu
+                penyimpanan, pencarian, pengelolaan, dan distribusi dokumen.
+
+2. Jejakte Parfum - Sistem Penjualan Online
+   Role       : Full Stack Web Developer
+   Teknologi  : PHP, MySQL, JavaScript, Bootstrap
+   Deskripsi  : Sistem penjualan online untuk pengelolaan produk dan proses
+                pemesanan secara digital.
+
+3. PMB Online - Sistem Pendaftaran Mahasiswa
+   Role       : Full Stack Web Developer
+   Teknologi  : Node.js, JavaScript
+   Deskripsi  : Sistem pendaftaran mahasiswa berbasis web dengan pengelolaan
+                data, export Excel, dan integrasi notifikasi WhatsApp.
+
+4. Sistem Pengajuan BBM
+   Role       : Full Stack Web Developer
+   Teknologi  : Laravel, MySQL, QR Code
+   Deskripsi  : Sistem pengajuan berbasis web dengan validasi dokumen dan
+                verifikasi menggunakan QR code.
+
+5. Sistem Pengaduan Kekerasan Seksual Civitas Akademika
+   Role       : Full Stack Web Developer
+   Teknologi  : Laravel 10, Bootstrap, MySQL
+   Deskripsi  : Platform berbasis web untuk mendukung proses pengajuan dan
+                pengelolaan laporan secara digital.
+
+PENGALAMAN ORGANISASI
+- Wakil Presiden Mahasiswa BEM ITKA
+- Sekretaris Umum HMI Komisariat Teknik
+- Aktif dalam kegiatan kepemimpinan, pengelolaan program, administrasi organisasi,
+  komunikasi, dan pengembangan kegiatan mahasiswa.
+
+KEKUATAN PROFESIONAL
+- Problem Solving
+- Web Development
+- System Analysis
+- Database Management
+- Team Collaboration
+- Communication
+- Continuous Learning
+
+CAREER OBJECTIVE
+Membangun karier di bidang software engineering dan web development dengan
+mengembangkan solusi digital yang fungsional, terukur, dan memberikan manfaat
+nyata bagi pengguna maupun organisasi.
+
+STATUS
+OPEN TO WORK
+Full-Time | Freelance | Collaboration
+
+============================================================
+Ahmad Danial Hariadi
+Full Stack Web Developer

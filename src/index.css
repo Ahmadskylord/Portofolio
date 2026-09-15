@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --ink: 5 5 5;
+    --charcoal: 17 20 24;
+    --card: 22 27 32;
+    --cyan: 20 184 212;
+    --cyan-bright: 34 211 238;
+    --offwhite: 245 247 250;
+    --muted: 167 176 184;
+    color-scheme: dark;
+  }
+
+  html.light {
+    --ink: 250 251 253;
+    --charcoal: 255 255 255;
+    --card: 244 246 249;
+    --cyan: 8 145 178;
+    --cyan-bright: 14 165 181;
+    --offwhite: 15 23 32;
+    --muted: 88 100 112;
+    color-scheme: light;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  .font-display {
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 0.02em;
+  }
+  .font-heading {
+    font-family: 'Montserrat', sans-serif;
+  }
+  .container-x {
+    @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f2a30;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #14b8d4;
+}
+
+/* Reveal animation */
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Grid background */
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(20, 184, 212, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(20, 184, 212, 0.06) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+/* Border & divider color that adapts to theme */
+.border-edge {
+  border-color: rgb(255 255 255 / 0.1);
+}
+html.light .border-edge {
+  border-color: rgb(8 15 22 / 0.12);
+}
+.border-edge-strong {
+  border-color: rgb(255 255 255 / 0.15);
+}
+html.light .border-edge-strong {
+  border-color: rgb(8 15 22 / 0.2);
+}
+.divide-edge > :not([hidden]) ~ :not([hidden]) {
+  border-color: rgb(255 255 255 / 0.06);
+}
+html.light .divide-edge > :not([hidden]) ~ :not([hidden]) {
+  border-color: rgb(8 15 22 / 0.08);
+}
