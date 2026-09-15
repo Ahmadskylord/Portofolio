@@ -58,7 +58,4 @@ Tempatkan file PDF CV Anda di folder `public/` lalu ubah nama file pada
 `src/data/portfolio.js` (variabel `cvs[].file`). Saat ini `public/cv-ahmad-danial.pdf`
 adalah placeholder.
 
-## Deploy (TokenKoding)
 
-Gunakan perintah `/deploy` (chat), tombol roket di editor, atau CLI `tk deploy`
-untuk mem-publish folder kerja ke URL HTTPS di bawah `*.app.tokenkoding.id`.
